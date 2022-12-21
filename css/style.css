@@ -14,14 +14,7 @@ a{
     text-decoration: none;
 }
 
-header{ 
-    display: flex;
-    background-color: beige;
-}
 
-nav{
-    width: 50%;
-}
 .navegacion{
     display: flex;
     flex-wrap: wrap;
@@ -80,3 +73,8 @@ footer div{
 i{
     font-size: 30px;
 }
+
+.carousel{
+    width: auto;
+} 
+
