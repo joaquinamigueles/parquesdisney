@@ -1,0 +1,28 @@
+footer {
+    display: flex;
+
+
+    div {
+        width: 80%;
+    }
+    
+    .redes_sociales {
+        display: flex;
+        justify-content: space-around;
+        width: 20%;
+    }
+    ul {
+
+        list-style-type: none;
+    }
+    
+    a {
+        text-decoration: none;
+    }
+    
+    i {
+        font-size: 30px;
+    }
+    
+}
+
