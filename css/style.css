@@ -106,3 +106,17 @@ i {
     /* 2 filas */
     grid-template-rows: 80px 100px;
 }
+
+.historiadisney {
+    margin-left: 50px;
+    justify-content: center;
+    display: flex;
+    width: 60%;
+}
+
+.carousel{
+    justify-content: center;
+    display: flex;
+    width: 55%;
+    margin-left: 20%;
+}

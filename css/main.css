@@ -13,6 +13,17 @@ header div div img {
   width: 10%;
 }
 
+.logo {
+  width: 5px;
+}
+
+.carousel {
+  justify-content: center;
+  display: flex;
+  width: 55%;
+  margin-left: 20%;
+}
+
 footer {
   display: flex;
 }
@@ -60,7 +71,10 @@ footer i {
 }
 
 .historiadisney {
-  margin-left: 5px;
+  margin-left: 50px;
+  justify-content: center;
+  display: flex;
+  width: 50%;
 }
 
 h1 {
